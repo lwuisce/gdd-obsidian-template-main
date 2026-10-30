@@ -2,7 +2,8 @@
 > Provide a high-level summary of the game concept. Focus on the core user experience, primary mechanic, and objectives rather than detailed background lore
 # High Concept & Pitch
 
-> [!info] Game Title
+> [!info] Shadows of the Regime
+
 > Insert Game Title Image here.
 
 > [!info] Elevator Pitch
